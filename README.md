@@ -220,8 +220,8 @@ The project can be extended by adding:
 	•	Interactive visualisations
 
 👩‍💻 About Me
-Lina Rushvana
-BCA Graduate | Aspiring Data Analyst
+BhanuTeja
+B.Tech in ECE Graduate
 Skills Practiced
 Python Pandas NumPy Matplotlib Seaborn Data Analysis Data Visualization
 
